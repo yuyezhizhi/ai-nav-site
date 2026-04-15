@@ -28,6 +28,20 @@
   <link rel="manifest" href="manifest.json">
   <link rel="apple-touch-icon" href="icon-192.png">
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Tailwind CDN 配置
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            primary: '#667eea',
+            secondary: '#764ba2',
+          }
+        }
+      }
+    }
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
@@ -295,7 +309,7 @@
         <input 
           type="text" 
           id="search-input"
-          placeholder="搜索 AI 工具... (按 <span class='kbd'>/</span> 快速聚焦)"
+          placeholder="搜索 AI 工具... (按 / 快速聚焦)"
           autocomplete="off"
           class="w-full px-6 py-4 pl-14 pr-12 rounded-2xl glass text-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition"
         >
