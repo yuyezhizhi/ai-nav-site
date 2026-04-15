@@ -6,7 +6,13 @@
     "description": "OpenAI 开发的最强对话 AI，能写作、编程、分析",
     "icon": "🤖",
     "hot": true,
-    "tags": ["对话", "写作", "编程"]
+    "tags": ["对话", "写作", "编程"],
+    "rating": 4.9,
+    "price": "免费/付费",
+    "views": 12000000,
+    "likes": 45000,
+    "featured": true,
+    "hotReason": "AI 领域标杆产品，功能最全面"
   },
   {
     "name": "Claude",
@@ -15,7 +21,13 @@
     "description": "Anthropic 推出的 AI 助手，擅长长文本分析和创意写作",
     "icon": "🧠",
     "hot": true,
-    "tags": ["对话", "写作", "分析"]
+    "tags": ["对话", "写作", "分析"],
+    "rating": 4.8,
+    "price": "免费/付费",
+    "views": 8000000,
+    "likes": 32000,
+    "featured": true,
+    "hotReason": "上下文窗口最大，适合长文本处理"
   },
   {
     "name": "Midjourney",
@@ -24,7 +36,13 @@
     "description": "最强 AI 绘画工具，输入文字生成惊艳图片",
     "icon": "🎨",
     "hot": true,
-    "tags": ["绘画", "设计", "艺术"]
+    "tags": ["绘画", "设计", "艺术"],
+    "rating": 4.9,
+    "price": "付费",
+    "views": 15000000,
+    "likes": 58000,
+    "featured": true,
+    "hotReason": "生成质量最高，艺术性强"
   },
   {
     "name": "Stable Diffusion",
@@ -33,7 +51,13 @@
     "description": "开源 AI 图像生成模型，免费可用",
     "icon": "🖼️",
     "hot": true,
-    "tags": ["绘画", "开源", "免费"]
+    "tags": ["绘画", "开源", "免费"],
+    "rating": 4.7,
+    "price": "免费",
+    "views": 20000000,
+    "likes": 75000,
+    "featured": true,
+    "hotReason": "完全免费开源，社区活跃"
   },
   {
     "name": "DALL-E 3",
@@ -42,7 +66,12 @@
     "description": "OpenAI 图像生成 AI，与 ChatGPT 深度集成",
     "icon": "✨",
     "hot": true,
-    "tags": ["绘画", "设计"]
+    "tags": ["绘画", "设计"],
+    "rating": 4.8,
+    "price": "付费",
+    "views": 10000000,
+    "likes": 40000,
+    "featured": false
   },
   {
     "name": "GitHub Copilot",
@@ -51,7 +80,13 @@
     "description": "AI 编程助手，代码补全、解释、生成",
     "icon": "💻",
     "hot": true,
-    "tags": ["编程", "代码"]
+    "tags": ["编程", "代码"],
+    "rating": 4.8,
+    "price": "付费",
+    "views": 9000000,
+    "likes": 38000,
+    "featured": true,
+    "hotReason": "与 GitHub 深度集成，开发必备"
   },
   {
     "name": "Cursor",
@@ -60,7 +95,12 @@
     "description": "AI 代码编辑器，基于大模型的下一代 IDE",
     "icon": "📝",
     "hot": true,
-    "tags": ["编程", "IDE"]
+    "tags": ["编程", "IDE"],
+    "rating": 4.7,
+    "price": "免费/付费",
+    "views": 5000000,
+    "likes": 22000,
+    "featured": true
   },
   {
     "name": "Notion AI",
@@ -69,7 +109,12 @@
     "description": "笔记工具的 AI 升级，写作、总结、头脑风暴",
     "icon": "📓",
     "hot": true,
-    "tags": ["笔记", "写作"]
+    "tags": ["笔记", "写作"],
+    "rating": 4.6,
+    "price": "免费/付费",
+    "views": 12000000,
+    "likes": 35000,
+    "featured": false
   },
   {
     "name": "Gamma",
@@ -78,7 +123,12 @@
     "description": "AI 一键生成 PPT 网页，专业美观",
     "icon": "📊",
     "hot": true,
-    "tags": ["PPT", "演示"]
+    "tags": ["PPT", "演示"],
+    "rating": 4.7,
+    "price": "免费/付费",
+    "views": 6000000,
+    "likes": 25000,
+    "featured": true
   },
   {
     "name": "Runway",
@@ -87,7 +137,12 @@
     "description": "AI 视频生成和编辑平台",
     "icon": "🎬",
     "hot": true,
-    "tags": ["视频", "编辑"]
+    "tags": ["视频", "编辑"],
+    "rating": 4.6,
+    "price": "免费/付费",
+    "views": 4000000,
+    "likes": 18000,
+    "featured": true
   },
   {
     "name": "Pika",
@@ -96,7 +151,12 @@
     "description": "新一代 AI 视频生成，输入文字创建视频",
     "icon": "🎥",
     "hot": true,
-    "tags": ["视频", "生成"]
+    "tags": ["视频", "生成"],
+    "rating": 4.5,
+    "price": "免费/付费",
+    "views": 3000000,
+    "likes": 15000,
+    "featured": false
   },
   {
     "name": "Suno",
@@ -105,7 +165,12 @@
     "description": "AI 音乐生成，输入文字创作歌曲",
     "icon": "🎵",
     "hot": true,
-    "tags": ["音乐", "音频"]
+    "tags": ["音乐", "音频"],
+    "rating": 4.7,
+    "price": "免费/付费",
+    "views": 5000000,
+    "likes": 20000,
+    "featured": true
   },
   {
     "name": "ElevenLabs",
@@ -114,7 +179,12 @@
     "description": "AI 语音合成，克隆声音、配音",
     "icon": "🗣️",
     "hot": true,
-    "tags": ["语音", "配音"]
+    "tags": ["语音", "配音"],
+    "rating": 4.6,
+    "price": "免费/付费",
+    "views": 4500000,
+    "likes": 19000,
+    "featured": false
   },
   {
     "name": "Perplexity",
@@ -123,7 +193,13 @@
     "description": "AI 搜索引擎，实时网络信息+引用来源",
     "icon": "🔍",
     "hot": true,
-    "tags": ["搜索", "信息"]
+    "tags": ["搜索", "信息"],
+    "rating": 4.7,
+    "price": "免费/付费",
+    "views": 7000000,
+    "likes": 28000,
+    "featured": true,
+    "hotReason": "引用来源，可信度高"
   },
   {
     "name": "Kimi",
@@ -132,7 +208,12 @@
     "description": "月之暗面推出的 AI，支持 20 万字长文本",
     "icon": "🌙",
     "hot": true,
-    "tags": ["对话", "长文本", "国产"]
+    "tags": ["对话", "长文本", "国产"],
+    "rating": 4.6,
+    "price": "免费",
+    "views": 10000000,
+    "likes": 30000,
+    "featured": true
   },
   {
     "name": "通义千问",
@@ -141,7 +222,12 @@
     "description": "阿里云大模型，多模态能力强",
     "icon": "🌊",
     "hot": true,
-    "tags": ["对话", "国产"]
+    "tags": ["对话", "国产"],
+    "rating": 4.5,
+    "price": "免费",
+    "views": 8000000,
+    "likes": 25000,
+    "featured": false
   },
   {
     "name": "文心一言",
@@ -150,7 +236,12 @@
     "description": "百度大模型，中文理解能力强",
     "icon": "📝",
     "hot": true,
-    "tags": ["对话", "国产"]
+    "tags": ["对话", "国产"],
+    "rating": 4.5,
+    "price": "免费",
+    "views": 9000000,
+    "likes": 28000,
+    "featured": false
   },
   {
     "name": "讯飞星火",
@@ -159,7 +250,12 @@
     "description": "科大讯飞认知大模型",
     "icon": "🔥",
     "hot": false,
-    "tags": ["对话", "国产"]
+    "tags": ["对话", "国产"],
+    "rating": 4.4,
+    "price": "免费/付费",
+    "views": 6000000,
+    "likes": 18000,
+    "featured": false
   },
   {
     "name": "Canva AI",
@@ -168,7 +264,12 @@
     "description": "设计平台的 AI 功能，AI 生成海报、Logo",
     "icon": "🎯",
     "hot": false,
-    "tags": ["设计", "海报"]
+    "tags": ["设计", "海报"],
+    "rating": 4.6,
+    "price": "免费/付费",
+    "views": 15000000,
+    "likes": 45000,
+    "featured": false
   },
   {
     "name": "remove.bg",
@@ -177,7 +278,12 @@
     "description": "AI 一键抠图，去除背景",
     "icon": "✂️",
     "hot": false,
-    "tags": ["抠图", "图片处理"]
+    "tags": ["抠图", "图片处理"],
+    "rating": 4.7,
+    "price": "免费/付费",
+    "views": 12000000,
+    "likes": 32000,
+    "featured": false
   },
   {
     "name": "Copy.ai",
@@ -186,7 +292,12 @@
     "description": "AI 文案生成，营销文案、邮件",
     "icon": "✍️",
     "hot": false,
-    "tags": ["写作", "营销"]
+    "tags": ["写作", "营销"],
+    "rating": 4.5,
+    "price": "免费/付费",
+    "views": 7000000,
+    "likes": 22000,
+    "featured": false
   },
   {
     "name": "Jasper",
@@ -195,7 +306,12 @@
     "description": "企业级 AI 内容创作平台",
     "icon": "📄",
     "hot": false,
-    "tags": ["写作", "企业"]
+    "tags": ["写作", "企业"],
+    "rating": 4.6,
+    "price": "付费",
+    "views": 5000000,
+    "likes": 18000,
+    "featured": false
   },
   {
     "name": "HeyGen",
@@ -204,7 +320,12 @@
     "description": "AI 数字人视频，一键生成虚拟主播",
     "icon": "👤",
     "hot": true,
-    "tags": ["数字人", "视频"]
+    "tags": ["数字人", "视频"],
+    "rating": 4.6,
+    "price": "付费",
+    "views": 3500000,
+    "likes": 14000,
+    "featured": false
   },
   {
     "name": "D-ID",
@@ -213,7 +334,12 @@
     "description": "AI 照片说话，静图变视频",
     "icon": "🎭",
     "hot": false,
-    "tags": ["数字人", "照片"]
+    "tags": ["数字人", "照片"],
+    "rating": 4.4,
+    "price": "付费",
+    "views": 2500000,
+    "likes": 10000,
+    "featured": false
   },
   {
     "name": "Mubert",
@@ -222,7 +348,12 @@
     "description": "AI 背景音乐生成，适合视频创作者",
     "icon": "🎶",
     "hot": false,
-    "tags": ["音乐", "背景音乐"]
+    "tags": ["音乐", "背景音乐"],
+    "rating": 4.5,
+    "price": "免费/付费",
+    "views": 2000000,
+    "likes": 8000,
+    "featured": false
   },
   {
     "name": "Otter.ai",
@@ -231,7 +362,12 @@
     "description": "AI 会议记录，自动转录",
     "icon": "🎤",
     "hot": false,
-    "tags": ["转录", "会议"]
+    "tags": ["转录", "会议"],
+    "rating": 4.6,
+    "price": "免费/付费",
+    "views": 3000000,
+    "likes": 12000,
+    "featured": false
   },
   {
     "name": "Phind",
@@ -240,7 +376,12 @@
     "description": "开发者专属 AI 搜索引擎",
     "icon": "🔎",
     "hot": false,
-    "tags": ["搜索", "开发"]
+    "tags": ["搜索", "开发"],
+    "rating": 4.5,
+    "price": "免费",
+    "views": 4000000,
+    "likes": 15000,
+    "featured": false
   },
   {
     "name": "Photon",
@@ -249,7 +390,12 @@
     "description": "AI 网页构建器，描述即生成",
     "icon": "⚡",
     "hot": false,
-    "tags": ["编程", "网页"]
+    "tags": ["编程", "网页"],
+    "rating": 4.4,
+    "price": "免费",
+    "views": 1500000,
+    "likes": 6000,
+    "featured": false
   },
   {
     "name": "Replit",
@@ -258,7 +404,12 @@
     "description": "在线编程平台 + AI 助手",
     "icon": "🚀",
     "hot": false,
-    "tags": ["编程", "在线"]
+    "tags": ["编程", "在线"],
+    "rating": 4.5,
+    "price": "免费/付费",
+    "views": 8000000,
+    "likes": 24000,
+    "featured": false
   },
   {
     "name": "Duolingo",
@@ -267,6 +418,11 @@
     "description": "AI 辅助语言学习",
     "icon": "🌐",
     "hot": false,
-    "tags": ["学习", "语言"]
+    "tags": ["学习", "语言"],
+    "rating": 4.7,
+    "price": "免费",
+    "views": 50000000,
+    "likes": 120000,
+    "featured": false
   }
 ]
